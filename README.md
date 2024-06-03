@@ -18,9 +18,9 @@
 💼 Key Skills:
 - NextJs: Advanced proficiency, in creating modern and dynamic web applications with excellent performance.
 - HTML5/CSS3: Expertise in crafting responsive layouts for cross-platform compatibility and optimal user experience.
-- JavaScript: Mastered the fundamentals and popular libraries like Redux and Axios.
-- Frameworks and Libraries: Experienced with Bootstrap, TailwindCSS, and Bulma for faster development.
-- UX/UI: In-depth knowledge of UX/UI design principles, transforming mockups into attractive interfaces.
+- JavaScript/TypeScript: Mastered the fundamentals and popular libraries like Redux and Axios.
+- UX/UI: Experienced with Bootstrap and TailwindCSS for faster development, In-depth knowledge of UX/UI design principles, transforming mockups into attractive interfaces.
+- Back-End: Experienced with Spring Boot and Node.js/Express, building robust and scalable server-side applications, proficient in developing RESTful APIs, and integrating various database systems.
 
 🌱 Lifelong Learner:
 -  I stay updated with the latest Front-End and Back-End trends and technologies, seeking new challenges to enhance my skills.
