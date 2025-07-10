@@ -13,8 +13,6 @@
 
 📫 How to reach me **youssef.beenamor@gmail.com**
 
-📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/1IUElIJ0t9pe1y7sgCyYmfKBBRgNYZNdW_lik8ZBAiNY/edit?usp=sharing)
-
 💼 Key Skills:
 - NextJs: Advanced proficiency in creating modern and dynamic web applications with excellent performance.
 - HTML5/CSS3: Expertise in crafting responsive layouts for cross-platform compatibility and optimal user experience.
