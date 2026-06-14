@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A passionate Full-Stack Developer from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseeph5" alt="joseeph5" /></a> </p>
 
 🔭 I’m currently working on **E-Commerce Project**
 
 🌱 I’m currently learning **DevOps and GoLang**
 
-👨‍💻 All of my projects are available at my [Portfolio](https://youssefbenamor.me)
+👨‍💻 All of my projects are available at my [Portfolio](https://youssefbenamor.com)
 
 💬 Ask me about **ReactJs / NextJs / NodeJs**
 
